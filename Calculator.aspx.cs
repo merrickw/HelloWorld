@@ -17,6 +17,7 @@ namespace HelloWorld
         protected void btnAdd_Click(object sender, EventArgs e)
         {
 			/* Add a + b = c and set label to display c */
+			/* and more comments! */
             decimal a = decimal.Parse(txtFirst.Text);
             decimal b = decimal.Parse(txtSecond.Text);
             decimal c = a + b;
