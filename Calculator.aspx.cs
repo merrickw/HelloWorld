@@ -21,6 +21,7 @@ namespace HelloWorld
 			
 			/* And now we're adding a change to master, with no regard for feature */
 			
+			/* Moving master forward */
 			
             decimal a = decimal.Parse(txtFirst.Text);
             decimal b = decimal.Parse(txtSecond.Text);
