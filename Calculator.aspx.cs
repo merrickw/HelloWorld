@@ -25,6 +25,8 @@ namespace HelloWorld
 			/* Feature: And now we're adding a feature on feature branch */
 			/* Feature: And now we're adding a feature on feature branch */			
 			/* Feature: Moving feature ahead as well */
+			/* Feature: Moving feature ahead as well */
+			/* Feature: And more feature changes */
 
             decimal a = decimal.Parse(txtFirst.Text);
             decimal b = decimal.Parse(txtSecond.Text);
