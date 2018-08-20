@@ -27,7 +27,10 @@ namespace HelloWorld
 			/* Feature: Moving feature ahead as well */
 			/* Feature: Moving feature ahead as well */
 			/* Feature: And more feature changes */
-
+			/* Feature: Moving feature ahead as well */
+			/* Feature: And more feature changes */
+			/* Feature: pushing feature ahead */
+			
             decimal a = decimal.Parse(txtFirst.Text);
             decimal b = decimal.Parse(txtSecond.Text);
             decimal c = a + b;
