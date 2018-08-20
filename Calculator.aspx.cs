@@ -19,11 +19,11 @@ namespace HelloWorld
 			/* Add a + b = c and set label to display c */
 			/* and more comments! */
 			
-			/* And now we're adding a change to master, with no regard for feature */
-			
-			/* Moving master forward */
-			/* One more master change, should become HEAD */
-			
+			/* Master: And now we're adding a change to master, with no regard for feature */		
+			/* Master: Moving master forward */
+			/* Master: One more master change, should become HEAD */			
+			/* Feature: And now we're adding a feature on feature branch */
+
             decimal a = decimal.Parse(txtFirst.Text);
             decimal b = decimal.Parse(txtSecond.Text);
             decimal c = a + b;
