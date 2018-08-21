@@ -18,6 +18,7 @@ namespace HelloWorld
         {
 			/* Add a + b = c and set label to display c */
 			/* and more comments! */
+<<<<<<< HEAD
 			
 			/* Master: And now we're adding a change to master, with no regard for feature */		
 			/* Master: Moving master forward */
@@ -32,6 +33,13 @@ namespace HelloWorld
 			/* Feature: pushing feature ahead */
 			
 			/* Change for git extensions*/
+=======
+			/* And now we're adding a feature on feature branch */
+			
+			/* Moving feature ahead as well */
+			/* And more feature changes */
+			/* pushing feature ahead */
+>>>>>>> c533af7a350a18c65781abfca2ef5c5d061d0fb9
 			
             decimal a = decimal.Parse(txtFirst.Text);
             decimal b = decimal.Parse(txtSecond.Text);
