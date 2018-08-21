@@ -31,6 +31,8 @@ namespace HelloWorld
 			/* Feature: And more feature changes */
 			/* Feature: pushing feature ahead */
 			
+			/* Change for git extensions*/
+			
             decimal a = decimal.Parse(txtFirst.Text);
             decimal b = decimal.Parse(txtSecond.Text);
             decimal c = a + b;
